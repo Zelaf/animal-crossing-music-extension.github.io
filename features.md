@@ -90,7 +90,7 @@ Being able to listen to hourly music and have it change automatically is cool an
 That's right! The extension features an awesome <b>Town Tune</b> composer available within the browser. 
 </p>
 <p>
-With it you can compone your custom Town Tune, which will be played every time an hour passes – just as in the game!
+With it you can compose your custom Town Tune, which will be played every time an hour passes – just as in the game!
 </p>
 </div>
 <div class="col-12 col-sm-5">
